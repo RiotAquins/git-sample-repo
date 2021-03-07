@@ -1,4 +1,4 @@
-git status -> prints the status of the directory
+git status -> prints the status of the directory 1
 git init
 git config --global user.name "Lets Kode It"
 git config --global user.email letskodeit@gmail.com
